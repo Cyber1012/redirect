@@ -1,2 +1,2 @@
 # Eagan's Redirect
-This is a special private redirect service for Eagan.
+This is a private redirect service for Eagan, created by Eagan.
